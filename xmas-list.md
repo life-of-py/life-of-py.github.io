@@ -24,12 +24,12 @@
   </li>
 
   <li>
-    M83 – <em>Hurry Up, We're Dreaming</em> Vinyl
+    M83 – Hurry Up, We're Dreaming Vinyl
     (<a href="https://www.amazon.com/Hurry-Up-Were-Dreaming-m83/dp/B005HS00P0" target="_blank" rel="noopener noreferrer">Click here</a>)
   </li>
 
   <li>
-    Jack Johnson – <em>In Between Dreams</em> Vinyl
+    Jack Johnson – In Between Dreams Vinyl
     (<a href="https://www.amazon.com/Between-Dreams-Vinyl-Jack-Johnson/dp/B0007OY3UC" target="_blank" rel="noopener noreferrer">Click here</a>)
   </li>
 
