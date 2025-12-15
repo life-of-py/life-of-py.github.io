@@ -1,6 +1,6 @@
 <html>
 
-<h1>REAGAN'S CHRISTMAS LIST</h1>
+<b>Reagan's Christmas List</b>
 
 <ul>
   <li>
