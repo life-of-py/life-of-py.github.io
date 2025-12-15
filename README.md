@@ -29,8 +29,8 @@
 <body>
 
   <div class="button-container">
-    <a class="button" href="#">Projects</a>
-    <a class="button" href="#">Assets</a>
+    <a class="button" href="projects">Projects</a>
+    <a class="button" href="assets">Assets</a>
   </div>
 
 </body>
